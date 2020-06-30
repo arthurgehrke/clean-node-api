@@ -19,6 +19,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
-    "lint-staged": "^10.1.7"
+    "lint-staged": "^10.1.7",
+    "typescript": "^3.9.5"
   }
 }
